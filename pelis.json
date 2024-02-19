@@ -1,0 +1,29 @@
+[{
+  "title": "Avengers: Infinity War",
+  "rating": 9.1,
+  "tags": ["aventura", "accion"],
+  "fecha": 2018,
+  "duracion": "2h 29m"
+},
+{
+  "title": "Capitán América: Civil War",
+  "rating": 8.5,
+  "tags": ["accion","aventura","guerra"],
+  "fecha": 2016,
+  "duracion": "2h 28m"
+},
+{
+  "title": "Guardianes de la Galaxia",
+  "rating": 6.5,
+  "tags": ["accion","fantasia","aventura"],
+  "fecha": 2003,
+  "duracion": "2h 2m"
+},
+{
+  "title": "Spider-Man: Across the Spider-Verse",
+  "rating": 9.0,
+  "tags": ["accion","comedio","animado"],
+  "fecha": 2023,
+  "duracion": "2h 20m"
+}
+]
